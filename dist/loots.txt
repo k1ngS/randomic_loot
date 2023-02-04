@@ -1,17 +1,14 @@
 Loots
-1 XP
-2 centavos de cobre
-
-Item encantado (Estranho)
-Efeito: O personagem não precisa respirar.
-
 nada
-Feitiço: Primitiva
-2 centavos de cobre
+
+Item encantado (Acessório)
+Efeito: Áreas de sombras causadas por demônios a até 100 metros se tornam iluminadas, e o personagem fica imune à propriedade horripilante da criatura.
+
 1 XP
 Poção de cura
-
-Item encantado (Estranho)
-Efeito: O valor e o modificador de um dos atributos do personagem aumenta em 1, à escolha do Mestre.
-
+nada
+Poção de cura
+1 XP
+Poção de cura
+nada
 Feitiço: Natureza

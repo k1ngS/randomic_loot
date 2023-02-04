@@ -1,25 +1,10 @@
 Loots
-nada
-1 XP
 
-Item encantado (Inscrição) com 3 efeitos:     
-Efeito 1°: O objeto toca uma sineta quando se aproxima a 20 metros de uma armadilha.
-Efeito 2°: O objeto é possuido por um demônio minúsculo.Quando o personagem fica incapacitado ele imediatamente cura dano igual a sua taxa de cura e fica controlado pelo demônio por 1 minuto.Consulte Possessão Demoniaca no Capitulo 10.
-Efeito 3°: Quando o personagem conjura uma magia de nivel 1 ou 2, jogue um d6. Caso o resultado seja 1, ele ganha 1 ponto de Insanidade. Caso o resultado seja 6, ele recupera a conjuração da magia. Qualquer outro resultado não gera efeito.
-
-
-Item encantado (Acessório)
-Efeito: O valor e o modificador de um dos atributos do personagem aumenta em 1, à escolha do Mestre.
-
-
-Item encantado (Moeda)
-Efeito: O objeto toca uma sineta quando se aproxima a 20 metros de uma armadilha.
-
-2 centavos de cobre
-
-Item encantado (Móveis)
-Efeito: O objeto boia e nunca afunda. Ele sempre flutua na superficie de qualquer liquido em que seja colocado.
+Item encantado (Acessório) com 3 efeitos:     
+Efeito 1°: O objeto é uma arma. O personagem reduz em 1 a quantidade de perdições impostas em jogadas para atacar com ele (até o minimo de 0).
+Efeito 2°: O personagem não precisa comer ou beber.
+Efeito 3°: Quando se move, o personagem não deixa rastros ou os deixa como se fossem de uma criatura a escolha dele.
 
 Poção de cura
-Feitiço: Arcana
+1 XP
 1 XP

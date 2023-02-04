@@ -15,6 +15,7 @@ class Main(QMainWindow):
         self.enchanted_item = EnchantedItem()
 
         self.setWindowTitle('Loot Generator')
+        self.setStyleSheet("background-color: gray;")
         self.width = 800
         self.height = int(0.618 * self.width)
         self.setFixedSize(self.width, self.height)
