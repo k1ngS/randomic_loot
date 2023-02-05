@@ -5,31 +5,6 @@
 
 
 Este é um gerador de loot aleatório para jogos de RPG. Ele fornece uma forma fácil de gerar itens de jogos de RPG com base em probabilidades e outros critérios.
-## Instalação
-
-Para instalar este gerador de loot, você precisará ter o Python 3 instalado em seu sistema. Em seguida, basta clonar este repositório do Github e executar o arquivo main.py.
-
-## Instalação
-
-Para instalar o projeto, siga os seguintes passos:
-
-1. Clone o repositório para o seu computador:
-
-```
-$ git clone https://github.com/seuusername/random-loot.git
-```
-
-2. Entre na pasta do projeto:
-
-```
-$ cd random-loot
-```
-
-3. Instale as dependências do projeto:
-
-```
-$ pip install -r requirements.txt
-```
 
 ## Uso
 
