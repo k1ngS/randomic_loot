@@ -63,9 +63,6 @@ $ git push origin minha-nova-funcionalidade
    
 8. Crie uma nova Pull Request para o repositório principal.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais informações.
 ## Autores
 
 * Marcos Beltrão (k1ngS)
