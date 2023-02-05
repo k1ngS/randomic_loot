@@ -6,7 +6,7 @@
 
 Este é um gerador de loot aleatório para jogos de RPG. Ele fornece uma forma fácil de gerar itens de jogos de RPG com base em probabilidades e outros critérios.
 
-Obs: É apenas um projeto para uma mesa de rpg que eu participo, mas pretendo ir adicionando mais opções.
+Obs: É apenas um projeto para uma mesa de rpg que eu participo, mas pretendo adicionar mais opções.
 
 ## Uso
 
