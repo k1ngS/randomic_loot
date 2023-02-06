@@ -1,4 +1,4 @@
-# Random Loot Generator
+# RPGLootHelper
 
 [![Image](https://img.shields.io/badge/Linguagem-Python-blue.svg?style=flat-square)](https://www.python.org/)
 [![Image](https://img.shields.io/badge/Vers%C3%A3o-3.x-blue.svg?style=flat-square)](https://www.python.org/downloads/)
