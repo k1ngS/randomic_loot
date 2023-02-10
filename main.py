@@ -339,9 +339,13 @@ class App(customtkinter.CTk):
         self.result_effect = {'name': '', 'effect': '', 'description': ''}
         result = self.effects.dice(6)
         if result == 1:
-            self.injury_table(4*result)
+            new_roll = self.effects.dice(6, 4)
+            self.injury_table(new_roll)
+
         elif result > 1 and result < 6:
-            self.injury_table(3*result)
+            new_roll = self.effects.dice(6, 4)
+            self.injury_table(new_roll)
+
         else:
             self.result_effect['name'] = "Efeito Evitado"
             self.result_effect['effect'] = "Foi Por Pouco. O personagem conseguiu evitar o ferimento por pura sorte. Ele fica assustado por 1 rodada e precisa conseguir um sucesso em uma jogada de desafio de Agilidade ou derruba o que está segurando."
@@ -433,6 +437,7 @@ class App(customtkinter.CTk):
         self.result_effect['description'] = self.effects.injury[4][1]
         self.result_effect[
             'more_effect'] = f'Quantidade de Rodadas que o personagem ficou inconsciente: {rounds}'
+        print(dice)
 
     def staggering_wound(self):
         self.result_effect['name'] = self.effects.injury[5][0]

@@ -5,7 +5,6 @@ import customtkinter
 
 class Effect:
     def __init__(self):
-        self.dice = lambda x: random.randint(1, x)
         self.injury = {
             4: ['Nocauteado', 'O personagem cai prostrado e fica inconsciente. Ao final de cada rodada, jogue 1d6. Em um resultado par, o personagem remove a aflição inconsciente. O personagem remove a aflição inconsciente. O personagem também remove a aflição quando não estiver mais ferido.'],
             5: ['Ferimento Cambaleante', 'O personagem cai prostrado e fica pasmo por 1 minuto. Ao final de cada rodada, ele pode fazer uma jogada de desafio de Vontade e remover a alição em caso de sucesso. O personagem também remove a aflição quando não estiver mais ferido.'],
@@ -58,3 +57,30 @@ class Effect:
     def get_scar(self):
         d20 = self.dice(20)
         return self.scar_table[d20]
+
+    def dice(self, maximo, vezes=1):
+        resultados = []
+        # Adicionar a semente aleatória, para obter resultados diferentes a cada execução do programa
+        random.seed()
+
+        for i in range(vezes):
+            # Gerar um número aleatório entre 1 e o máximo especificado
+            resultado = random.randint(1, maximo)
+
+            # Adicionar um numero float para tornar a rolagem mais aleatória
+            resultado += random.uniform(-0.5, 0.5)
+
+            # Arredondar o resultado para obter um inteiro
+            resultado = round(resultado)
+
+            # Verificar se o resultado é maior que o máximo
+            if resultado > maximo:
+                resultado = maximo
+
+            # Verificar se o resultado é menor que 1
+            if resultado < 1:
+                resultado = 1
+
+            resultados.append(resultado)
+
+        return sum(resultados)
