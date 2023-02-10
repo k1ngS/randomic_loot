@@ -1,10 +1,11 @@
 Loots
 
-Item encantado (Acessório) com 3 efeitos:     
-Efeito 1°: O objeto é uma arma. O personagem reduz em 1 a quantidade de perdições impostas em jogadas para atacar com ele (até o minimo de 0).
-Efeito 2°: O personagem não precisa comer ou beber.
-Efeito 3°: Quando se move, o personagem não deixa rastros ou os deixa como se fossem de uma criatura a escolha dele.
+Item encantado (Estranho)
+Efeito: Quando o personagem estiver a 100 metros de um demônio, o objeto escurece as sombras ao redor dele, negando sua propriedade horripilante.
 
 Poção de cura
-1 XP
-1 XP
+
+Item encantado (Veículo)
+Efeito: O personagem pode utilizar uma ação para escolher um objeto alvo que possa ver e aprender um fato verdadeiro sobre ele. O objeto tem três cargas.
+
+Feitiço: Teurgia

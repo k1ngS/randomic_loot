@@ -1,14 +1,15 @@
 Loots
-nada
-
-Item encantado (Acessório)
-Efeito: Áreas de sombras causadas por demônios a até 100 metros se tornam iluminadas, e o personagem fica imune à propriedade horripilante da criatura.
-
-1 XP
-Poção de cura
-nada
 Poção de cura
 1 XP
-Poção de cura
 nada
-Feitiço: Natureza
+
+Item encantado (Arma de Combate Corpo a Corpo)
+Efeito: O personagem pode utilizar uma ação para fazer com que um objeto emita um som ensurdecedor em um raio de 10 metros ao redor de si por 1 minuto. Durante este periodo, todas as criaturas na área ficam surdas enquanto ali permanecerem; criaturas a até 100 metros do objeto fazem jogadas de desafio de Percepção para ouvir com 1 perdição. O objeto tem três cargas.
+
+
+Item encantado (Joias) com 3 efeitos:     
+Efeito 1°: O personagem pode utilizar uma ação para fazer com que um objeto emita um som ensurdecedor em um raio de 10 metros ao redor de si por 1 minuto. Durante este periodo, todas as criaturas na área ficam surdas enquanto ali permanecerem; criaturas a até 100 metros do objeto fazem jogadas de desafio de Percepção para ouvir com 1 perdição. O objeto tem três cargas.
+Efeito 2°: O personagem faz jogadas de desafio de Vontade para evitar ganhar Insanidade com 1 dádiva.
+Efeito 3°: Quando se move, o personagem não deixa rastros ou os deixa como se fossem de uma criatura a escolha dele.
+
+nada

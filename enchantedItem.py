@@ -115,7 +115,7 @@ class EnchantedItem:
         }
 
     def generate_enchanted_item(self, forma):
-        d20 = 18   # random.randint(1, 20)
+        d20 = random.randint(1, 20)
         twoEffects = []
         threeEffects = []
         limit = 0

@@ -1,0 +1,10 @@
+# Ignore as pastas de criação do exe
+dist
+build
+
+# Ignore os cache
+__pycache__
+.mypy_cache
+
+# Ignore os arquivos spec
+.spec
