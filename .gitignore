@@ -8,3 +8,6 @@ __pycache__
 
 # Ignore os arquivos spec
 .spec
+
+# Ignore o proprio arquivo
+.gitignore
