@@ -8,6 +8,14 @@ Este é um gerador de loot aleatório para jogos de RPG. Ele fornece uma forma f
 
 Obs: É apenas um projeto para uma mesa de rpg que eu participo, mas pretendo adicionar mais opções.
 
+## Atualização
+
+O projeto será refeito em C# e terá um novo repositorio com as atualizações do programa.
+
+Pretendo atualizar esse programa em python por alguns meses, mas será apenas correção de bugs e otimizações.
+
+Maior parte das novas features será na versão 2.0 feita em C#.
+
 ## Uso
 
 Para iniciar o projeto, execute o seguinte comando na pasta raiz do projeto:
